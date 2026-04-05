@@ -1,2 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+SayaMusicTrack sm = new SayaMusicTrack("Manchild");
+sm.PrintTrackDetails();
+sm.IncreasePlayCount(5);
+sm.PrintTrackDetails();

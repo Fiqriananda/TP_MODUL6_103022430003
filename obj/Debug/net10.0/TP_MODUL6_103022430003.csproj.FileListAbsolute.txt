@@ -1,0 +1,15 @@
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/bin/Debug/net10.0/TP_MODUL6_103022430003
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/bin/Debug/net10.0/TP_MODUL6_103022430003.deps.json
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/bin/Debug/net10.0/TP_MODUL6_103022430003.runtimeconfig.json
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/bin/Debug/net10.0/TP_MODUL6_103022430003.dll
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/bin/Debug/net10.0/TP_MODUL6_103022430003.pdb
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.AssemblyInfoInputs.cache
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.AssemblyInfo.cs
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.csproj.CoreCompileInputs.cache
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.sourcelink.json
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.dll
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/refint/TP_MODUL6_103022430003.dll
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.pdb
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/TP_MODUL6_103022430003.genruntimeconfig.cache
+/Users/muhammadfiqrianandahakin/Public/TP/TP_MODUL6_103022430003/obj/Debug/net10.0/ref/TP_MODUL6_103022430003.dll
